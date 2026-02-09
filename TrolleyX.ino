@@ -4,10 +4,10 @@
 #include "HX711.h"
 #include <Firebase_ESP_Client.h>
 
-#define WIFI_NAME "Kadam"
-#define WIFI_PASSWORD "Pranaya1234"
-#define API_KEY "AIzaSyD74e_gSKO4ebyUn8inQyqUAMyrT7xvJ8E"
-#define DATABASE_URL "https://trolleyx-it-default-rtdb.firebaseio.com/"
+#define WIFI_NAME " "
+#define WIFI_PASSWORD " "
+#define API_KEY " "
+#define DATABASE_URL " "
 #define SDA 21
 #define RST 22
 MFRC522 rfid(SDA, RST);
